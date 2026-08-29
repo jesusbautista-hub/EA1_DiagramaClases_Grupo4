@@ -13,7 +13,7 @@ Documentar y comunicar la estructura del sistema de biblioteca mediante un diagr
 
 ## Documento colaborativo
 
-[Documento colaborativo del Grupo 4](https://docs.google.com/document/d/1J6-XcQ_R1F7sWz5lQIi1x7Zw9vqACkhe/edit?usp=sharing&ouid=110130008599282704927&rtpof=true&sd=true&authuser=1)
+[Documento colaborativo del Grupo 4 link ](https://docs.google.com/document/d/1J6-XcQ_R1F7sWz5lQIi1x7Zw9vqACkhe/edit?usp=sharing&ouid=110130008599282704927&rtpof=true&sd=true&authuser=1)
 
 ## Archivo relacionado
 
