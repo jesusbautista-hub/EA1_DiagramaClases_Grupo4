@@ -3,8 +3,7 @@ Diagrama de Clases UML del Sistema de Biblioteca grupo 4
 ![alt text](Diagrama-grupo.4.png)
 Imagen del diagrama realizado en PlantUML
 
-Evidencia de Aprendizaje 1 - Diagrama de Clases UML del Sistema de Biblioteca
-Programación Orientada a Objetos 2
+Evidencia de Aprendizaje 1 - Diagrama de Clases UML
 
 ## Descripción
 
@@ -16,7 +15,7 @@ Documentar y comunicar la estructura del sistema de biblioteca mediante un diagr
 
 ## Documento colaborativo
 
-[Documento colaborativo del Grupo 4 link ](https://docs.google.com/document/d/1J6-XcQ_R1F7sWz5lQIi1x7Zw9vqACkhe/edit?usp=sharing&ouid=110130008599282704927&rtpof=true&sd=true&authuser=1)
+[Documento colaborativo del Grupo 4 link ](https://docs.google.com/document/d/1J6-XcQ_R1F7sWz5lQIi1x7Zw9vqACkhe/edit?usp=sharing&ouid=110130008599282704927&rtpof=true&sd=true&authuser=1) 
 
 ## Archivo relacionado
 
