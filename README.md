@@ -23,3 +23,11 @@ Documentar y comunicar la estructura del sistema de biblioteca mediante un diagr
 ## Archivo relacionado
 
 [Documento PDF de la evidencia](https://github.com/user-attachments/files/31604648/EA1_DiagramaClases_Grupo4.docx.pdf)
+
+## Vídeo explicativo del diagrama
+
+[Vídeo colaborativo del Grupo 4](https://drive.google.com/file/d/1TO_zBSyQlPHSgFwRhU7XZzLJuLUGqfDg/view?usp=sharing&authuser=1)
+
+## Imagen diagrama UML
+
+[Imagen diagrama del Grupo 4](https://drive.google.com/file/d/15Gi6whZ8X5wprKPkupELUdAVHhRyb7m_/view?usp=sharing&authuser=1)
