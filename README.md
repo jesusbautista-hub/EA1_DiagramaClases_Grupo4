@@ -1,5 +1,6 @@
 EA2_Implementacion_de_Diagrama_de_clases
 // Implementacion lineas de codigo EA2
+
 package biblioteca.modelo;
 
 public abstract class Libro {
