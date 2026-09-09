@@ -5,6 +5,52 @@ Link del codigo UML
 Diagrama de Clases UML del Sistema de Biblioteca grupo 4
 ![alt text](Diagrama-grupo.4.png)
 Imagen del diagrama realizado en PlantUML
+ EA2_Implementacion_de_Diagrama_de_clases
+// Implementacion lineas de codigo EA2
+package biblioteca.modelo;
+
+public abstract class Libro {
+
+   private int id;
+    private String titulo;
+    private boolean disponible;
+
+   public Libro(int id, String titulo) {
+        this.id = id;
+        this.titulo = titulo;
+        this.disponible = true; // un libro nuevo empieza disponible
+    }
+
+   // Comportamiento común: no cambia entre subclases
+    public void prestar() {
+        this.disponible = false;
+    }
+
+   public void devolver() {
+        this.disponible = true;
+    }
+
+   // Método abstracto: cada subclase decide cómo describirse
+    public abstract String getDescripcion();
+
+   // Getters y setters (encapsulamiento)
+    public int getId() {
+        return id;
+    }
+
+   public String getTitulo() {
+        return titulo;
+    }
+
+   public void setTitulo(String titulo) {
+        this.titulo = titulo;
+    }
+
+   public boolean isDisponible() {
+        return disponible;
+   }
+}
+
 
 Evidencia de Aprendizaje 1 - Diagrama de Clases UML
 
@@ -31,3 +77,4 @@ Documentar y comunicar la estructura del sistema de biblioteca mediante un diagr
 ## Imagen diagrama UML
 
 [Imagen diagrama del Grupo 4](https://drive.google.com/file/d/15Gi6whZ8X5wprKPkupELUdAVHhRyb7m_/view?usp=sharing&authuser=1)
+main
