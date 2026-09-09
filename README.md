@@ -1,11 +1,5 @@
-## Codigo Uml
-Link del codigo UML
-(https://drive.google.com/file/d/1tTy6n-De2Pz5jJeAG7R-W9KLhPpgZF4k/view?usp=sharing&authuser=1)
-# EA1_DiagramaClases_Grupo4
-Diagrama de Clases UML del Sistema de Biblioteca grupo 4
-![alt text](Diagrama-grupo.4.png)
-Imagen del diagrama realizado en PlantUML
- EA2_Implementacion_de_Diagrama_de_clases
+
+EA2_Implementacion_de_Diagrama_de_clases
 // Implementacion lineas de codigo EA2
 package biblioteca.modelo;
 
@@ -77,4 +71,11 @@ Documentar y comunicar la estructura del sistema de biblioteca mediante un diagr
 ## Imagen diagrama UML
 
 [Imagen diagrama del Grupo 4](https://drive.google.com/file/d/15Gi6whZ8X5wprKPkupELUdAVHhRyb7m_/view?usp=sharing&authuser=1)
+## Codigo Uml
+Link del codigo UML
+(https://drive.google.com/file/d/1tTy6n-De2Pz5jJeAG7R-W9KLhPpgZF4k/view?usp=sharing&authuser=1)
+# EA1_DiagramaClases_Grupo4
+Diagrama de Clases UML del Sistema de Biblioteca grupo 4
+![alt text](Diagrama-grupo.4.png)
+Imagen del diagrama realizado en PlantUML
 main
