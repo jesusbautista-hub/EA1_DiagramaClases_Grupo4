@@ -19,6 +19,7 @@ Documentar y comunicar la estructura del sistema de biblioteca mediante un diagr
 ## Archivo relacionado
 
 [Documento PDF de la evidencia](https://github.com/user-attachments/files/31604648/EA1_DiagramaClases_Grupo4.docx.pdf)
+EA2_Implementacion_de_Diagrama_de_clases
 
 ## Vídeo explicativo del diagrama
 
@@ -36,3 +37,5 @@ Diagrama de Clases UML del Sistema de Biblioteca grupo 4
 Imagen del diagrama realizado en PlantUML
 main
 main
+
+ main
