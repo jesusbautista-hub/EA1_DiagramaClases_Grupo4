@@ -1,0 +1,4 @@
+# Archivos generados por la compilación de Java
+.build/
+bin/
+*.class
