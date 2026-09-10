@@ -1,7 +1,4 @@
-# EA1_DiagramaClases_Grupo4
-Diagrama de Clases UML del Sistema de Biblioteca grupo 4
-![alt text](Diagrama-grupo.4.png)
-Imagen del diagrama realizado en PlantUML
+EA2_Implementacion_de_Diagrama_de_clases
 
 Evidencia de Aprendizaje 1 - Diagrama de Clases UML
 
@@ -20,9 +17,3 @@ Documentar y comunicar la estructura del sistema de biblioteca mediante un diagr
 ## Archivo relacionado
 
 [Documento PDF de la evidencia](https://github.com/user-attachments/files/31604648/EA1_DiagramaClases_Grupo4.docx.pdf)
-<<<<<<< HEAD
-=======
-
-## Codigo del digrama realizado en PlantUML
-[text](<../Downloads/codigo PlantUML_Grupo4.txt>)
->>>>>>> 67e6627 (Codigo UML)
