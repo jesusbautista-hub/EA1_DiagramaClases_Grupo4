@@ -1,6 +1,4 @@
 EA2_Implementacion_de_Diagrama_de_clases
-EA2_Implementacion_de_Diagrama_de_clases
-
 
 Evidencia de Aprendizaje 1 - Diagrama de Clases UML
 
