@@ -37,4 +37,3 @@ public class Autor {
         return id;
     }
 }
-    

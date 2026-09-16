@@ -1,33 +1,33 @@
 package biblioteca.prestamo;
+
 import java.time.LocalDate;
 
-public class Detalleprestamo {
-    //Atributos
+public class DetallePrestamo {
+    // Atributos
     private LocalDate fechaPrestamo;
     private LocalDate fechaDevolucion;
 
-    //Constructor
-    public Detalleprestamo(LocalDate fechaprestamo , LocalDate fechadevolucionn){
-        this.fechaPrestamo = fechaprestamo;
-        this.fechaDevolucion = null;
-
+    // Constructor
+    public DetallePrestamo(LocalDate fechaPrestamo, LocalDate fechaDevolucion) {
+        this.fechaPrestamo = fechaPrestamo;
+        this.fechaDevolucion = fechaDevolucion;
     }
-    //Metodos
-    public void registarDevolucion(LocalDate fecha) {
+
+    // Metodos
+    public void registrarDevolucion(LocalDate fecha) {
         this.fechaDevolucion = fecha;
     }
+
     public boolean estaDevuelto() {
         return fechaDevolucion != null;
     }
-    //Getters y Setters
+
+    // Getters y Setters
     public LocalDate getFechaPrestamo() {
         return fechaPrestamo;
     }
+
     public LocalDate getFechaDevolucion() {
         return fechaDevolucion;
     }
-
-
-
-    
 }
