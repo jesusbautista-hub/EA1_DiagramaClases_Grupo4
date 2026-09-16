@@ -1,6 +1,8 @@
 package biblioteca.modelo;
 
-public abstract class Libro {
+import biblioteca.prestamo.Prestable;
+
+public abstract class Libro implements Prestable {
 
 	private int id;
 	private String titulo;
@@ -12,10 +14,12 @@ public abstract class Libro {
 		this.disponible = true;
 	}
 
+	@Override
 	public void prestar() {
 		this.disponible = false;
 	}
 
+	@Override
 	public void devolver() {
 		this.disponible = true;
 	}
