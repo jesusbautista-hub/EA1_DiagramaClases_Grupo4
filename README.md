@@ -1,7 +1,12 @@
 EA2_Implementacion_de_Diagrama_de_clases
+
 Nota: la solución completa correspondiente a la **Actividad Evaluativa 2 se encuentra alojada y verificada en la rama:
 
 👉 **`EA2_Implementacion_de_Diagrama_de_clases`**
+
+se adjunta imagen deonde aparece el codigo completo en las dos carpetas marcadas como (Modelo Y Prestamo) y su clase Main 
+
+<img width="1337" height="266" alt="commit de imagen del codigo " src="https://github.com/user-attachments/assets/d3bba8ee-be76-442c-8d9b-06901e0de35a" />
 
 
 Evidencia de Aprendizaje 1 - Diagrama de Clases UML
