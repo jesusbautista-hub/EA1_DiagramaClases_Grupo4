@@ -1,4 +1,8 @@
 EA2_Implementacion_de_Diagrama_de_clases
+Nota: la solución completa correspondiente a la **Actividad Evaluativa 2 se encuentra alojada y verificada en la rama:
+
+👉 **`EA2_Implementacion_de_Diagrama_de_clases`**
+
 
 Evidencia de Aprendizaje 1 - Diagrama de Clases UML
 
