@@ -1,5 +1,9 @@
 EA3. Programación Funcional 
 
+Como evidencia final, se incluye la ejecución del código de la EA3, la cual confirma que el sistema es completamente funcional.
+
+<img width="1354" height="681" alt="commit 1" src="https://github.com/user-attachments/assets/718f132b-d195-4569-b966-39e1dd0c99b4" />
+
 
 EA2_Implementacion_de_Diagrama_de_clases
 
